@@ -26,7 +26,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/robertojosephnabil/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/robertojosephnabil/)
 
 ### Languages and Tools:
 
