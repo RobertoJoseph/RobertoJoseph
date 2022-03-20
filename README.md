@@ -24,11 +24,9 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC1stT304tPFpGchfAUDPkMA)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/robertojosephnabil/)
 
 ### Languages and Tools:
 
