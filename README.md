@@ -1,4 +1,4 @@
-# Hi there, I'm Roberto Joseph - aka [Ruby][youtube] 👋 
+# Hi there, I'm Roberto Joseph - aka [Ruby][linkedin] 👋 
 
 
 
