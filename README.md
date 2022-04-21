@@ -1,4 +1,4 @@
-# Hi there, I'm Roberto Joseph - aka [Ruby][linkedin] 👋 
+# Hi there, I'm Roberto Joseph - aka [Ruby][Youtube] 👋 
 
 
 
@@ -57,4 +57,5 @@
 [youtube]: https://www.youtube.com/channel/UC1stT304tPFpGchfAUDPkMA
 [instagram]: https://www.instagram.com/robertojosephnabil/
 [linkedin]: https://www.linkedin.com/in/roberto-joseph-b69ba11b1/
+[Youtube]: https://www.youtube.com/watch?v=pm5J-Lk0TE0
 
