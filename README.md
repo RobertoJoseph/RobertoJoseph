@@ -3,7 +3,7 @@
 
 
 
-## I'm a Student in German University in Egypt in Computer Science and Engineering
+## I'm a Student in German University in Cairo in Computer Science and Engineering
 
 
 - 🌱 I'm currently learning MERN Stack 
