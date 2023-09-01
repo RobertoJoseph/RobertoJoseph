@@ -3,12 +3,12 @@
 
 
 
-## I'm a Student in German University in Cairo in Computer Science and Engineering
+## I'm a Student at German University in Cairo in Computer Science and Engineering
 
 
 - 🌱 I'm currently learning MERN Stack, Swift
 - ⚡ I'm reading **Clean Code** and **Design Patterns**
-- 👯 I'm looking to work on real projects and searching for internship
+- 👯 I'm looking to work on real projects and searching for an internship
 
 
 
