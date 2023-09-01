@@ -3,10 +3,10 @@
 
 
 
-## I'm a Student at German University in Cairo in Computer Science and Engineering
+## I'm a  Senior Student at German University in Cairo in Computer Science and Engineering
 
 
-- 🌱 I'm currently learning MERN Stack, Swift
+- 🌱 I'm currently learning BACKEND in-depth, DEVOPS.
 - ⚡ I'm reading **Clean Code** and **Design Patterns**
 - 👯 I'm looking to work on real projects and searching for an internship
 
