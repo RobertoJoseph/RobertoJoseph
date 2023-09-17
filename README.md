@@ -1,26 +1,18 @@
 # Hi there, I'm Roberto Joseph - aka [Ruby][Youtube] 👋 
 
-
-
+## Co-Founder and CEO of [SwiftJobs](https://www.swiftjobs-eg.com)
 
 ## I'm a  Senior Student at German University in Cairo in Computer Science and Engineering
 
-
 - 🌱 I'm currently learning BACKEND in-depth, DEVOPS.
-- ⚡ I'm reading **Clean Code** and **Design Patterns**
-- 👯 I'm looking to work on real projects and searching for an internship
-
-
 
 ### Connect with me:
 
-
-
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC1stT304tPFpGchfAUDPkMA)
-&nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/robertojosephnabil/)
+[![SwiftJobs](./img/swiftjobs-logo.png)](https://www.swiftjobs-eg.com/contact-us) - CoFounder of SwiftJobs
+
+
 
 ### Languages and Tools:
 
