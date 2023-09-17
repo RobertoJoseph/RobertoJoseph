@@ -10,7 +10,6 @@
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/roberto-joseph-b69ba11b1/)
 &nbsp;&nbsp;
-[![SwiftJobs](./img/swiftjobs-logo.png)](https://www.swiftjobs-eg.com/contact-us) - CoFounder of SwiftJobs
 
 
 
