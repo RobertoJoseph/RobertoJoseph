@@ -1,6 +1,6 @@
 # Hi there, I'm Roberto Joseph - aka [Ruby][Youtube] 👋 
 
-## Co-Founder and CEO of [SwiftJobs](https://www.swiftjobs-eg.com)
+## [Co-Founder and CEO of SwiftJobs](https://www.swiftjobs-eg.com)
 
 ## I'm a  Senior Student at German University in Cairo in Computer Science and Engineering
 
