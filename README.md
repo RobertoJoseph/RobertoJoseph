@@ -27,7 +27,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[youtube]: [https://www.youtube.com/channel/UC1stT304tPFpGchfAUDPkMA](https://www.tiktok.com/@techwruby)
+[youtube]: https://www.tiktok.com/@techwruby
 [instagram]: https://www.instagram.com/robertojosephnabil/
 [linkedin]: https://www.linkedin.com/in/roberto-joseph-b69ba11b1/
 [Youtube]: https://www.youtube.com/watch?v=pm5J-Lk0TE0
