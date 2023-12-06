@@ -4,7 +4,7 @@
 
 ## I'm a  Senior Student at German University in Cairo in Computer Science and Engineering
 
-- 🌱 I'm currently learning BACKEND in-depth, DEVOPS.
+- 🌱 Software Engineer at Baraka (YC S21)
 
 ### Connect with me:
 
