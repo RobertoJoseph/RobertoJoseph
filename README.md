@@ -2,8 +2,6 @@
 
 ## [Founder of SwiftJobs](https://www.swiftjobs-eg.com)
 
-## I'm a  Senior Student at German University in Cairo in Computer Science and Engineering
-
 - 🌱 Software Engineer at Baraka (YC S21)
 
 ### Connect with me:
