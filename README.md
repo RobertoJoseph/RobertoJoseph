@@ -1,6 +1,6 @@
 # Hi there, I'm Roberto Joseph - aka [Ruby][Youtube] 👋 
 
-## [Founder of SwiftJobs](https://www.swiftjobs-eg.com)
+## [Co-Founder of SwiftJobs](https://www.swiftjobs-eg.com)
 
 - 🌱 Software Engineer at Baraka (YC S21)
 
