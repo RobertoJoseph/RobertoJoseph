@@ -2,7 +2,7 @@
 
 ## [Co-Founder of SwiftJobs](https://www.swiftjobs-eg.com)
 
-- 🌱 Software Engineer at Baraka (YC S21)
+- 🌱 Software Engineer at Ernest
 
 ### Connect with me:
 
