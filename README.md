@@ -1,6 +1,6 @@
 # Hi there, I'm Roberto Joseph - aka [Ruby][Youtube] 👋 
 
-## [Co-Founder of SwiftJobs](https://www.swiftjobs-eg.com)
+## [Ex-Co-Founder of SwiftJobs](https://www.swiftjobs-eg.com)
 
 - 🌱 Software Engineer at Ernest
 
